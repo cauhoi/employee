@@ -12,6 +12,7 @@
 config/database.yml
 config/s3.yml
 config/secrets.yml
+config/application.yml
 
 # Ignore the default SQLite database.
 /db/*.sqlite3

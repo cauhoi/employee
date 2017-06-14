@@ -40,7 +40,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'figaro'
-gem 'puma'
+# gem 'puma'
 group :development do
   gem 'capistrano'
   gem 'capistrano3-puma'
